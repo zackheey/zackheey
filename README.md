@@ -1,4 +1,3 @@
-```md
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=ZackXDev&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Discord.js%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Builder&descSize=18&descAlignY=55" width="100%" />
 
 <h1 align="center">Hi 👋, I'm ZackXDev</h1>
@@ -95,4 +94,3 @@ beautiful web experiences, and intelligent automation platforms.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
 
-```
